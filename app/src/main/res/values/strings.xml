@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyMusic</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="filenames">
+        <item>Tiger Rag.mp3</item>
+        <item>Like Eating Glass.mp3</item>
+        <item>Margarita!.mp3</item>
+    </string-array>
+</resources>
